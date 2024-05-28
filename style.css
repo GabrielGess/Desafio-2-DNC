@@ -1,0 +1,166 @@
+*{
+    margin: 0%;
+    font-family: "inter";
+}
+
+body{
+    background-color:#F2F2F2;
+    ;
+}
+
+.grid{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    width: 450px;
+    height: 35px;
+    border: 0px;
+    color: white;
+    background-color: #0C70F2;
+    border-radius: 08px;
+    padding: 0px 0px 05px 20px;
+    margin: 0px 0px 20px 0px;
+    font-size: 22px;
+}
+/*Case 01*/
+#nav01{
+    background-color:#0C70F2;
+    color: white;
+    padding:20px 0px 20px 40px;
+}
+
+#list{
+    width:30%;
+    margin:0px 0px 0px 900px;
+}
+
+/*Case 02*/
+#div02{
+    width: 60%;
+    align-items: center;
+    margin: auto;
+    padding: 70px 50px 50px 50px;
+}
+
+/*Case 03*/
+#section01{
+    background-color: #FFFFFF;
+    width: 450px;
+    height: 430px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.inputC03{
+    width: 430px;
+    height: 35px;
+    border: 0px;
+    background-color: #F2F2F2E5;
+    border-radius: 08px;
+    padding: 0px 0px 05px 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+.inputC04{
+    width: 200px;
+    height: 30px;
+    border: 0px;
+    background-color: #F2F2F2E5;
+    border-radius: 08px;
+    padding: 0px 0px 05px 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+/*Case 04*/
+#div04{
+    width: 40%;
+    align-items: center;
+    margin: auto;
+    padding: 70px 50px 20px 50px;
+}
+
+.h2C{
+    font-size: 28px;
+    margin:70px 0px 0px 0px ;
+    text-align: center;
+}
+
+/*Case 05*/
+#section02{
+    width: 45%;
+    height: 70px;
+    text-align: center;
+    margin:auto;
+    padding: 0%;
+    border-radius: 5px;
+    color:white;
+    background-color: white;
+}
+
+.list02{
+    background-color: #0C70F2;
+    border-radius: 5px 5px 0px 0px ;
+    padding:0px 45px 0px 45px;
+}
+
+.input{
+    border: white;
+    background-color: white;
+    margin: 18px;
+
+}
+
+/*Case 06*/
+
+#divC06{
+    width: 37%;
+    align-items: center;
+    margin: auto;
+    padding: 70px 50px 50px 50px;
+}
+
+#containerC06-2{
+    background-color: white;
+    width: 1024px;
+    height: 42px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    padding: 20px 0px 0px 0px;
+}
+
+#div06{
+    margin-bottom: 100px;
+
+}
+
+
+/*  Div 07*/
+#div07{
+    background-color:#0C70F2;
+    color: white;
+    padding:20px 0px 20px 40px;
+    padding-left: 75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
